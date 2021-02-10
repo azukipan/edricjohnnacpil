@@ -1,4 +1,4 @@
-# Edric John Cruz Nacpil
+# Welcome!
 
 ## About Me
 
