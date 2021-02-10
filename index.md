@@ -2,4 +2,4 @@ I'm researcher in Japan working on projects related to artificial intelligence. 
 
 ### Updates
 
-2/10/2021: I just released a demo for my new game, [Donut Destiny](https://playcanv.as/b/8xtA4Moa/)!
+2/10/2021: I just released a demo for my new game, [Donut Destiny](https://playcanv.as/b/XaJwYdIr/)!
