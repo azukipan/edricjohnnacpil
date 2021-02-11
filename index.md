@@ -1,4 +1,4 @@
-I'm a researcher in Japan working on projects related to artificial intelligence. Lately, I've been focusing on autonomous driving interfaces and machine learning for computer vision. You can learn more about me by browsing this page.  
+I'm a researcher at [Corpy & Co., Inc.](https://corpy.co/) working on projects related to artificial intelligence. Lately, I've been focusing on autonomous driving interfaces and machine learning for computer vision. You can learn more about me by browsing this page.  
 
 [Biography](https://azukipan.github.io/edricjohnnacpil/biography/)
 
