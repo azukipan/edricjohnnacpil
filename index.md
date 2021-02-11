@@ -1,6 +1,6 @@
 I'm a researcher in Japan working on projects related to artificial intelligence. Lately, I've been focusing on autonomous driving interfaces and machine learning for computer vision. You can learn more about me by browsing this page.  
 
-Biography - Under construction
+[Biography](https://azukipan.github.io/edricjohnnacpil/biography/)
 
 [Career Profile](https://www.linkedin.com/in/edric-john-cruz-nacpil-8137a46a/)
 
