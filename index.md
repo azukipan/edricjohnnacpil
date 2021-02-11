@@ -3,6 +3,7 @@ I'm a researcher at [Corpy & Co., Inc.](https://corpy.co/) working on projects r
 ### [Research](https://www.researchgate.net/profile/Edric_John_Nacpil) | [Publications](https://scholar.google.com/citations?user=VsIG-gcAAAAJ&hl=en)
 ### [Career Profile](https://www.linkedin.com/in/edric-john-cruz-nacpil-8137a46a/) | [Biography](https://azukipan.github.io/edricjohnnacpil/biography/)
 
+
 ### Updates
 
 2/11/2021: Our latest [article](https://www.doi.org/10.1109/JSEN.2020.3035169), "Adaptive Driver-Automation Shared Steering Control via Forearm Surface Electromyography Measurement," has been published in IEEE Sensors Journal.
