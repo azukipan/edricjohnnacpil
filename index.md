@@ -1,4 +1,4 @@
-I'm researcher in Japan working on projects related to artificial intelligence. Lately, I've been focusing on autonomous driving interfaces and machine learning for computer vision. You can learn more about me by browsing this page.  
+I'm a researcher in Japan working on projects related to artificial intelligence. Lately, I've been focusing on autonomous driving interfaces and machine learning for computer vision. You can learn more about me by browsing this page.  
 
 [Research](https://www.researchgate.net/profile/Edric_John_Nacpil)
 
