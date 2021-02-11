@@ -2,7 +2,7 @@
 layout: page
 title: "Biography"
 permalink: /biography/
-
+theme: jekyll-theme-tactile 
 ---
 
 I was born in Los Angeles in 1985 and grew up in California. I lived most of my younger years in the suburban city of Chino with my parents and older brother.
