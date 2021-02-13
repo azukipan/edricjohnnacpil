@@ -1,3 +1,9 @@
+---
+layout: page
+title: "Custom Search"
+permalink: /customsearch/
+---
+
 <html>
   <head>
     <title>Custom Search JSON API Example</title>
