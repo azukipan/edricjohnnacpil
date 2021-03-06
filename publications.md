@@ -22,3 +22,5 @@ permalink: /publications/
 3) R. Yamashina, Y. Tanda, A. Taniguchi, E.J.C. Nacpil, H. Shimura, A. Kawaguchi, “[不整地用履帯型移動体(RM17-0035)を用いた自律移動技術検証に関する報告 (Autonomous Mobile Robots using Tracked Vehicle for Rough Terrain)](https://doi.org/10.1299/jsmermd.2018.2A1-H01),” In 2018 JSME Conference on Robotics and Mechatronics, 2018. (In Japanese)
 
 4) E.J. Nacpil, R. Zheng, T. Kaizuka, and K. Nakano, “[Implementation of a sEMG-machine interface for steering a virtual car in a driving simulator](https://doi.org/10.1007/978-3-319-60591-3_25),” In AHFE 2017 International Conference on Human Factors in Simulation and Modeling, 2018, pp. 274–282.
+
+[Back](https://azukipan.github.io/edricjohnnacpil/)
