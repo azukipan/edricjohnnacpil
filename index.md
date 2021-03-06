@@ -1,6 +1,6 @@
 I'm a researcher at [Corpy & Co., Inc.](https://corpy.co/) working on projects related to artificial intelligence. Lately, I've been focusing on machine learning for computer vision. I also conduct independent research on autonomous driving interfaces. You can learn more about me by browsing this page.
 
-### [Research](https://azukipan.github.io/edricjohnnacpil/research/) | [Publications](https://scholar.google.com/citations?user=VsIG-gcAAAAJ&hl=en)
+### [Research](https://azukipan.github.io/edricjohnnacpil/research/) | [Publications](https://azukipan.github.io/edricjohnnacpil/publications/)
 ### [Career Profile](https://www.linkedin.com/in/edric-john-cruz-nacpil-8137a46a/) | [Biography](https://azukipan.github.io/edricjohnnacpil/biography/)
 
 
