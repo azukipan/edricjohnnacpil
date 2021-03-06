@@ -16,3 +16,5 @@ I was encouraged by my former graduate advisor, Dr. George Youssef, to pursue re
 I spent a few more years working in industry before deciding to return to engineering research. I was admitted as a doctoral candidate to The University of Tokyo, where I conducted automotive engineering experiments under the guidance Dr. Kimihiko Nakano. I wrote a dissertation on inclusive steering assistance that enabled persons with upper limb disabilities to steer autonomous automobiles using arm muscle signals. Despite the onset of the COVID-19 pandemic, in addition to the challenges of being a graduate student, my PhD in Mechanical Engineering was conferred in 2020.
 
 I continue to conduct research with colleagues in academia, while working as a researcher in Artificial Intelligence at Corpy & Co., Inc. in Tokyo.
+
+[Back](https://azukipan.github.io/edricjohnnacpil/)
