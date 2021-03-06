@@ -1,3 +1,8 @@
+---
+layout: default
+title: "Publications"
+permalink: /publications/
+---
 ## Peer-Reviewed Journal Articles
 
 1) Z. Wang, S. Suga, E.J.C. Nacpil, Z. Yan, K. Nakano, “[Adaptive driver-automation shared steering control via forearm surface electromyography measurement](https://doi.org/10.1109/JSEN.2020.3035169),” IEEE Sensors Journal, vol. 21, no. 4, 2020.
