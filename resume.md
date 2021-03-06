@@ -12,7 +12,7 @@ BA Philosophy 2007 - The University of California, Irvine
 
 ## Experience
 
-### Senior Researhcer
+### Senior Researcher
 8/2019 - Present
 
 Corpy & Co., Inc., Tokyo, Japan
