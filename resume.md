@@ -13,16 +13,12 @@ BA Philosophy 2007 - The University of California, Irvine
 ## Experience
 
 ### Senior Researcher
-8/2019 - Present
+8/2019 - Present, Corpy & Co., Inc., Tokyo, Japan
 
-Corpy & Co., Inc., Tokyo, Japan
-
-Specializing in mobility
+Conducting artificial intelligence research with a focus on mobility.
 
 ### Pre Doctoral Fellow
-9/2019 - 3/2020
-
-Institute of Industrial Science, The University of Tokyo, Japan
+9/2019 - 3/2020, Institute of Industrial Science, The University of Tokyo, Japan
 
 Completed dissertation on surface electromyography-controlled steering asssistance for automobiles.
 
@@ -32,8 +28,6 @@ Python, Jupyter Notebook, Javascript, Excel, MATLAB, Git, Linux, Windows
 ## Certifications
 TensorFlow Developer Professional Certificate
 
-DeepLearning.AI
-
-Issued 12/2020
+Issued by DeepLearning.AI on 12/2020
 
 [Back](https://azukipan.github.io/edricjohnnacpil/)
