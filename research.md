@@ -3,7 +3,11 @@ layout: default
 title: "Research"
 permalink: /research/
 ---
-I am currently investigating the feasibility of surface electromyography (sEMG) controlled steering assistance for automobiles. In particular, my colleagues and I have conducted driving simulations and field experiments demonstrating the path following accuracy of sEMG interfaces during low-speed steering. Future research would assess the effect of sEMG interfaces on human factors. In general, my research interests include: 
+I am researching explanatory artificial intelligence for our AI quality platform, Confide, at Corpy & Co., Inc. Much of what I have done in previous projects is related to object detection for computer vision systems in automotive applications. Some of our clients include Toyota Motor Corporation and the National Institute of Advanced Science and Technology in Japan.
+
+I am also independently investigating the feasibility of surface electromyography-controlled steering assistance for automobiles. In particular, my colleagues and I have conducted driving simulations and field experiments demonstrating the path following accuracy of sEMG interfaces during low-speed steering. Future research would assess the effect of sEMG interfaces on human factors. 
+
+In general, my research interests include: 
 
 (1) Biomechanics and human factors of driving 
 (2) Artificial intelligence for robotics and automobiles 
