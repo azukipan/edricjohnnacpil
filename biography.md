@@ -3,7 +3,7 @@ layout: default
 title: "Biography"
 permalink: /biography/
 ---
-<img class="bio.png" align="left" width="200" src="https://raw.githubusercontent.com/azukipan/edricjohnnacpil/gh-pages/bio.png" >
+<img class="bio.png" align="left" width="200" src="https://raw.githubusercontent.com/azukipan/edricjohnnacpil/gh-pages/bio.png" class = "post-image">
 I was born in Los Angeles in 1985 and grew up in California. I lived most of my younger years in the suburban city of Chino with my parents and older brother.
 
 I went on to study as an undergraduate at The University of California, Irvine, and I spent a summer studying analytic philosophy and the history of art at King's College in The University of Cambridge. After earning my Bachelor of Arts in Philosophy in 2007, I spent a few years working and deciding on a long-term career path. I eventually developed an interest in becoming a mechanical engineer and decided to begin training by taking classes on fundamental science and advanced math at a community college. 
