@@ -26,8 +26,6 @@ Completed dissertation on surface electromyography-controlled steering asssistan
 Python, Jupyter Notebook, Javascript, Excel, MATLAB, Git, Linux, Windows
 
 ## Certifications
-TensorFlow Developer Professional Certificate
-
-Issued by DeepLearning.AI on 12/2020
+TensorFlow Developer Professional Certificate - Issued by DeepLearning.AI on 12/2020
 
 [Back](https://azukipan.github.io/edricjohnnacpil/)
