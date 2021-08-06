@@ -23,7 +23,9 @@ Conducting artificial intelligence research with a focus on mobility.
 Completed dissertation on surface electromyography-controlled steering asssistance for automobiles.
 
 ## Skills
-Python, Jupyter Notebook, Javascript, Excel, MATLAB, Git, Linux, Windows
+Languages: Python, Javascript, C#
+
+Software: TensorFlow, Pytorch, Jupyter Notebook, Visual Studio Code, Excel, MATLAB, Git, Linux, Windows
 
 ## Certifications
 Machine Learning Course Completion Certificate - Issued by Stanford University on 8/2021
