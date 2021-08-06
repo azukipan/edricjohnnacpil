@@ -27,6 +27,7 @@ Python, Jupyter Notebook, Javascript, Excel, MATLAB, Git, Linux, Windows
 
 ## Certifications
 Machine Learning Course Completion Certificate - Issued by Stanford University on 8/2021
+
 TensorFlow Developer Professional Certificate - Issued by DeepLearning.AI on 12/2020
 
 [Back](https://azukipan.github.io/edricjohnnacpil/)
