@@ -3,6 +3,9 @@ layout: default
 title: "Resume"
 permalink: /resume/
 ---
+## Contact
+edric(at)corpy.co.jp
+
 ## Education
 PhD Mechanical Engineering 2020 - The University of Tokyo
 
