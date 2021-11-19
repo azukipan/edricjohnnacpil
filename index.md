@@ -6,6 +6,8 @@ I'm a researcher at [Corpy & Co., Inc.](https://corpy.co/) working on projects r
 
 ### Updates
 
+11/19/2021: Our latest article,"[Effect of Fixed and sEMG-Based Adaptive Shared Steering Control on Distracted Driver Behavior](https://doi.org/10.3390/s21227691)," has been published in Sensors Journal.
+
 7/28/2021: Our latest article,"[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038)," has been accepted for publication in IEEE Sensors Journal.
 
 5/20/2021: Our latest article,"[Feasibility Assessment of Transfer Functions Describing Biomechanics of the Human Lower Limb During the Gait Cycle](https://doi.org/10.1016/j.bspc.2021.102776)," has been accepted for publication in Biosignal Processing and Control Journal.
