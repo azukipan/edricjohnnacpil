@@ -5,19 +5,21 @@ permalink: /publications/
 ---
 ## Peer-Reviewed Journal Articles
 
-1) E.J.C. Nacpil, Z. Wang, K. Nakano, “[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038),” IEEE Sensors Journal (Accepted as of 7/2021).
+1) Z. Wang, S. Suga, E.J.C. Nacpil, Z. Yan, K. Nakano, “[Effect of Fixed and sEMG-Based Adaptive Shared Steering Control on Distracted Driver Behavior](https://doi.org/10.3390/s21227691),” Sensors, vol. 21, no. 7691, 2021.
 
-2) E.J.C. Nacpil, S. Nacey, G. Youssef, “[Feasibility assessment of transfer functions describing biomechanics of the human lower limb during the gait cycle](https://doi.org/10.1016/j.bspc.2021.102776),” Biosignal Processing and Control, vol. 69, 2021.
+2) E.J.C. Nacpil, Z. Wang, K. Nakano, “[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038),” IEEE Sensors Journal, vol. 21, no. 18, 2021.
 
-3) E.J.C. Nacpil, Z. Wang, Z. Yan, T. Kaizuka, K. Nakano, “[Surface Electromyography-controlled Pedestrian Collision Avoidance: A Driving Simulator Study](http://www.doi.org/10.1109/JSEN.2021.3070597),” IEEE Sensors Journal, vol. 21, no. 12, 2021.
+3) E.J.C. Nacpil, S. Nacey, G. Youssef, “[Feasibility assessment of transfer functions describing biomechanics of the human lower limb during the gait cycle](https://doi.org/10.1016/j.bspc.2021.102776),” Biosignal Processing and Control, vol. 69, 2021.
 
-4) Z. Wang, S. Suga, E.J.C. Nacpil, Z. Yan, K. Nakano, “[Adaptive driver-automation shared steering control via forearm surface electromyography measurement](https://doi.org/10.1109/JSEN.2020.3035169),” IEEE Sensors Journal, vol. 21, no. 4, 2020.
+4) E.J.C. Nacpil, Z. Wang, Z. Yan, T. Kaizuka, K. Nakano, “[Surface Electromyography-controlled Pedestrian Collision Avoidance: A Driving Simulator Study](http://www.doi.org/10.1109/JSEN.2021.3070597),” IEEE Sensors Journal, vol. 21, no. 12, 2021.
 
-5) E.J.C. Nacpil, T. Kaizuka, R. Zheng, and K. Nakano, “[Surface Electromyography-Controlled Automobile Steering Assistance](https://doi.org/10.3390/s20030809),” Sensors, vol. 20, no. 3, 2020.
+5) Z. Wang, S. Suga, E.J.C. Nacpil, Z. Yan, K. Nakano, “[Adaptive driver-automation shared steering control via forearm surface electromyography measurement](https://doi.org/10.1109/JSEN.2020.3035169),” IEEE Sensors Journal, vol. 21, no. 4, 2020.
 
-6) E.J.C. Nacpil, Z. Wang, R. Zheng, T. Kaizuka, and K. Nakano, “[Design and Evaluation of a Surface Electromyography-Controlled Steering Assistance Interface](https://dx.doi.org/10.3390%2Fs19061308),” Sensors, vol. 19, no. 6, 2019.
+6) E.J.C. Nacpil, T. Kaizuka, R. Zheng, and K. Nakano, “[Surface Electromyography-Controlled Automobile Steering Assistance](https://doi.org/10.3390/s20030809),” Sensors, vol. 20, no. 3, 2020.
 
-7) E.J.C. Nacpil, R. Zheng, T. Kaizuka, and K. Nakano, “[A surface electromyography controlled steering assistance interface](https://doi.org/10.1108/JICV-11-2018-0011),” Journal of Intelligent and Connected Vehicles, Apr. 2019.
+7) E.J.C. Nacpil, Z. Wang, R. Zheng, T. Kaizuka, and K. Nakano, “[Design and Evaluation of a Surface Electromyography-Controlled Steering Assistance Interface](https://dx.doi.org/10.3390%2Fs19061308),” Sensors, vol. 19, no. 6, 2019.
+
+8) E.J.C. Nacpil, R. Zheng, T. Kaizuka, and K. Nakano, “[A surface electromyography controlled steering assistance interface](https://doi.org/10.1108/JICV-11-2018-0011),” Journal of Intelligent and Connected Vehicles, Apr. 2019.
 
 ## Peer-Reviewed Conference Papers
 
