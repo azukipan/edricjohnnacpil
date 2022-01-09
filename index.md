@@ -7,8 +7,9 @@ I'm a researcher at [Corpy & Co., Inc.](https://corpy.co/) working on projects r
 
 We're accepting research papers for a special issue of the journal Sensors. The topic is "Sensors and Sensing for Automated Driving". 
 
-Details: [https://www.mdpi.com/.../sensors/special_issues/sen_aut_dri](https://www.mdpi.com/.../sensors/special_issues/sen_aut_dri)
+Details: [https://www.mdpi.com/.../sensors/special_issues/sen_aut_dri](https://www.mdpi.com/journal/sensors/special_issues/sen_aut_dri)
 
+<a href="https://www.mdpi.com/journal/sensors/special_issues/sen_aut_dri">
 <img class="banner-sen_aut_dri_horizontal_light.png" align="center" src="https://raw.githubusercontent.com/azukipan/edricjohnnacpil/gh-pages/banner-sen_aut_dri_horizontal_light.png">
 
 ### Updates
