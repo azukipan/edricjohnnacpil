@@ -13,7 +13,7 @@ permalink: /publications/
 
 4) E.J.C. Nacpil, Z. Wang, Z. Yan, T. Kaizuka, K. Nakano, “[Surface Electromyography-controlled Pedestrian Collision Avoidance: A Driving Simulator Study](http://www.doi.org/10.1109/JSEN.2021.3070597),” IEEE Sensors Journal, vol. 21, no. 12, 2021.
 
-5) Z. Wang, S. Suga, E.J.C. Nacpil, Z. Yan, K. Nakano, “[Adaptive driver-automation shared steering control via forearm surface electromyography measurement](https://doi.org/10.1109/JSEN.2020.3035169),” IEEE Sensors Journal, vol. 21, no. 4, 2020.
+5) Z. Wang, S. Suga, E.J.C. Nacpil, Z. Yan, K. Nakano, “[Adaptive driver-automation shared steering control via forearm surface electromyography measurement](https://doi.org/10.1109/JSEN.2020.3035169),” IEEE Sensors Journal, vol. 21, no. 4, 2021.
 
 6) E.J.C. Nacpil, T. Kaizuka, R. Zheng, and K. Nakano, “[Surface Electromyography-Controlled Automobile Steering Assistance](https://doi.org/10.3390/s20030809),” Sensors, vol. 20, no. 3, 2020.
 
