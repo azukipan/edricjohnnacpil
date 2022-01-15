@@ -14,7 +14,7 @@ Details: [https://www.mdpi.com/.../sensors/special_issues/sen_aut_dri](https://w
 
 ### Updates
 
-1/8/2022: Our latest articles,"Analysis of Visual Risk Perception Model for Braking Control Behaviour of Human Drivers: A Literature Review" and "Modeling and analysis of driver behavior under shared control through weighted visual and haptic guidance," have been accepted for publication in IET Intelligent Transportation Systems journal.
+1/8/2022: Our latest articles,"Analysis of Visual Risk Perception Model for Braking Control Behaviour of Human Drivers: A Literature Review" and "[Modeling and analysis of driver behavior under shared control through weighted visual and haptic guidance](https://doi.org/10.1049/itr2.12163)," have been accepted for publication in IET Intelligent Transport Systems journal.
 
 11/19/2021: Our latest article,"[Effect of Fixed and sEMG-Based Adaptive Shared Steering Control on Distracted Driver Behavior](https://doi.org/10.3390/s21227691)," has been published in Sensors journal.
 
