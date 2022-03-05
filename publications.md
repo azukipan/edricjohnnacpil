@@ -5,7 +5,9 @@ permalink: /publications/
 ---
 ## Peer-Reviewed Journal Articles
 
-1) Z. Wang, S. Suga, E.J.C. Nacpil, B. Yang, K. Nakano, “[Effect of Fixed and sEMG-Based Adaptive Shared Steering Control on Distracted Driver Behavior](https://doi.org/10.3390/s21227691),” Sensors, vol. 21, no. 7691, 2021.
+1) C. Liu, Z. Wang, E.J.C. Nacpil, W. Hou, R. Zheng, “[Analysis of Visual Risk Perception Model for Braking Control Behaviour of Human Drivers: A Literature Review](https://doi.org/10.1049/itr2.12170),” IET Intelligent Transport Systems, 2022.
+2) Z. Wang, R. Zheng, E.J.C. Nacpil, K. Nakano, “[Modeling and analysis of driver behavior under shared control through weighted visual and haptic guidance](https://doi.org/10.1049/itr2.12163),” IET Intelligent Transport Systems, 2022.
+3) Z. Wang, S. Suga, E.J.C. Nacpil, B. Yang, K. Nakano, “[Effect of Fixed and sEMG-Based Adaptive Shared Steering Control on Distracted Driver Behavior](https://doi.org/10.3390/s21227691),” Sensors, vol. 21, no. 7691, 2021.
 
 2) E.J.C. Nacpil, Z. Wang, K. Nakano, “[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038),” IEEE Sensors Journal, vol. 21, no. 18, 2021.
 
