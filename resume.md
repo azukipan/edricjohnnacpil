@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 ---
 ## Contact
-edric(at)corpy.co.jp
+edric(at)azukipan.net
 
 ## Education
 PhD Mechanical Engineering 2020 - The University of Tokyo
