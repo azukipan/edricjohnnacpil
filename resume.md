@@ -15,10 +15,15 @@ BA Philosophy 2007 - The University of California, Irvine
 
 ## Experience
 
-### Senior Researcher
-8/2019 - Present, Corpy & Co., Inc., Tokyo, Japan
+### Founder
+4/2022 - Present, Azukipan IT Solutions, Tokyo, Japan.
 
-Conducting artificial intelligence research with a focus on mobility.
+Develop software for mobile and web applications.
+
+### Senior Researcher
+8/2019 - 3/2022, Corpy & Co., Inc., Tokyo, Japan
+
+Conducted artificial intelligence research with a focus on mobility.
 
 ### Pre Doctoral Fellow
 9/2019 - 3/2020, Institute of Industrial Science, The University of Tokyo, Japan
