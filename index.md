@@ -3,16 +3,9 @@ I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and m
 ### [Research](https://azukipan.github.io/edricjohnnacpil/research/) | [Publications](https://azukipan.github.io/edricjohnnacpil/publications/)
 ### [Resume](https://azukipan.github.io/edricjohnnacpil/resume/) | [Biography](https://azukipan.github.io/edricjohnnacpil/biography/)
 
-### Announcements
-
-We're accepting research papers for a special issue of the journal Sensors. The topic is "Sensors and Sensing for Automated Driving". 
-
-Details: [https://www.mdpi.com/.../sensors/special_issues/sen_aut_dri](https://www.mdpi.com/journal/sensors/special_issues/sen_aut_dri)
-
-<a href="https://www.mdpi.com/journal/sensors/special_issues/sen_aut_dri">
-<img class="banner-sen_aut_dri_horizontal_light.png" align="center" src="https://raw.githubusercontent.com/azukipan/edricjohnnacpil/gh-pages/banner-sen_aut_dri_horizontal_light.png">
 
 ### Updates
+6/1/2022: I have started as a postdoctoral researcher with the [Jeon Lab](https://www.jeonlab.com) at Sungkyunkwan University!
 
 4/1/2022: I have started an IT software development business, [Azukipan IT Solutions](https://www.azukipan.net).
   
