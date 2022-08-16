@@ -1,12 +1,10 @@
-I am a postdoctoral researcher of Artificial Intelligence at Sungkyunkwan University and the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and mobile development business in Japan. I also conduct independent research on aritifical intelligence and autonomous driving. You can learn more about me by browsing this page.
+I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and mobile development business in Japan. I also conduct independent research on aritifical intelligence and autonomous driving. You can learn more about me by browsing this page.
 
 ### [Research](https://azukipan.github.io/edricjohnnacpil/research/) | [Publications](https://azukipan.github.io/edricjohnnacpil/publications/)
 ### [Resume](https://azukipan.github.io/edricjohnnacpil/resume/) | [Biography](https://azukipan.github.io/edricjohnnacpil/biography/)
 
 
 ### Updates
-6/1/2022: I have started as a postdoctoral researcher with the [Jeon Lab](https://www.jeonlab.com) at Sungkyunkwan University!
-
 4/1/2022: I have started an IT software development business, [Azukipan IT Solutions](https://www.azukipan.net).
   
 3/18/2022: My first iOS app, SHOREACCESS, has launched on the [App Store](https://apps.apple.com/app/shoreaccess/id1604498722).
