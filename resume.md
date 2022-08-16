@@ -14,12 +14,6 @@ MS Mechanical Engineering 2013 - California State University, Northridge
 BA Philosophy 2007 - The University of California, Irvine
 
 ## Experience
-
-### Postdoctoral Researcher
-6/2022 - Present, Jeon Lab, Sungkyunkwan University Advanced Institute of Nano Technnology, Suwon, South Korea
-
-Research artificial intelligence for autonomous driving and optimization of optoelectronics.
-
 ### Founder
 4/2022 - Present, Azukipan IT Solutions, Tokyo, Japan
 
