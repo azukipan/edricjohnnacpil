@@ -41,7 +41,9 @@ TensorFlow Developer Professional Certificate - Issued by DeepLearning.AI on 12/
 
 ## Activities
 Reviewer - International Journal of Human-Computer Interaction 2022
+
 Guest Editor - Sensors Journal Special Issue on Sensors and Sensing for Automated Driving
+
 Parallel Session Assistant - 22nd International Conference on the Science and Application of Nanotubes and Low-Dimentional Materials
 
 [Back](https://azukipan.github.io/edricjohnnacpil/)
