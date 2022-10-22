@@ -14,6 +14,12 @@ MS Mechanical Engineering 2013 - California State University, Northridge
 BA Philosophy 2007 - The University of California, Irvine
 
 ## Experience
+
+### Postdoctoral Researcher
+6/2022 - Present, Jeon Lab, Sungkyunkwan University Advanced Institute of Nano Technnology, Suwon, South Korea
+
+Research artificial intelligence for autonomous driving and optimization of optoelectronics.
+
 ### Founder
 4/2022 - Present, Azukipan IT Solutions, Tokyo, Japan
 
@@ -38,12 +44,5 @@ Software: TensorFlow, Pytorch, Jupyter Notebook, Visual Studio Code, Xcode, Exce
 Machine Learning Course Completion Certificate - Issued by Stanford University on 8/2021
 
 TensorFlow Developer Professional Certificate - Issued by DeepLearning.AI on 12/2020
-
-## Activities
-Reviewer - International Journal of Human-Computer Interaction 2022
-
-Guest Editor - Sensors Journal Special Issue on Sensors and Sensing for Automated Driving
-
-Parallel Session Assistant - 22nd International Conference on the Science and Application of Nanotubes and Low-Dimentional Materials
 
 [Back](https://azukipan.github.io/edricjohnnacpil/)
