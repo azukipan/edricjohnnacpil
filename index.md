@@ -5,6 +5,12 @@ I am a postdoctoral researcher of Artificial Intelligence at Sungkyunkwan Univer
 
 
 ### Updates
+11/22/2022: The SHOREACCESS mobile app v2.0 has been released on the [App Store](https://apps.apple.com/app/shoreaccess/id1604498722) and [Google Play Store](https://play.google.com/store/apps/details?id=shoreaccess.google.androidbrowserhelper.demos.customtabssession)!
+
+11/1/2022: I presented my paper, "[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038)," at the 2022 IEEE Sensors Conference in Dallas, Texas, United States.
+
+10/22/2022: I gave a virtual talk for the Rencheng Zheng lab at Tianjin University based on my paper, "[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038)."
+
 6/1/2022: I have started as a postdoctoral researcher with the [Jeon Lab](https://www.jeonlab.com) at Sungkyunkwan University!
 
 4/1/2022: I have started an IT software development business, [Azukipan IT Solutions](https://www.azukipan.net).
