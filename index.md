@@ -1,4 +1,4 @@
-I am a postdoctoral researcher of Artificial Intelligence at Sungkyunkwan University and the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and mobile development business in Japan. I also conduct independent research on aritifical intelligence and autonomous driving. You can learn more about me by browsing this page.
+I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and mobile development business in Japan. I also conduct independent research on aritifical intelligence and autonomous driving. You can learn more about me by browsing this page.
 
 ### [Research](https://azukipan.github.io/edricjohnnacpil/research/) | [Publications](https://azukipan.github.io/edricjohnnacpil/publications/)
 ### [Resume](https://azukipan.github.io/edricjohnnacpil/resume/) | [Biography](https://azukipan.github.io/edricjohnnacpil/biography/)
@@ -12,8 +12,6 @@ I am a postdoctoral researcher of Artificial Intelligence at Sungkyunkwan Univer
 11/1/2022: I presented my paper, "[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038)," at the 2022 IEEE Sensors Conference in Dallas, Texas, United States.
 
 10/22/2022: I gave a virtual talk for the Rencheng Zheng lab at Tianjin University based on my paper, "[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038)."
-
-6/1/2022: I have started as a postdoctoral researcher with the [Jeon Lab](https://www.jeonlab.com) at Sungkyunkwan University!
 
 4/1/2022: I have started an IT software development business, [Azukipan IT Solutions](https://www.azukipan.net).
   
