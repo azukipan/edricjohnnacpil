@@ -5,6 +5,8 @@ I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and m
 
 
 ### Updates
+2/25/2023: Our article, "Extreme gradient boosting to predict atomic layer deposition for platinum nano-film coating," has been accepted for publication in Langmuir.
+
 12/25/2022: My first personal/business networking app, GuavaDrop, has been released on the [App Store](https://apps.apple.com/app/guavadrop/id1619055284) and [Google Play Store](https://play.google.com/store/apps/details?id=com.azukipan.guavadrop&fbclid=IwAR1JCXLDZAx5ozKKJQN7rv6bEhnwSzGePkIbveAdaepKCxUVGx0O5CTK6ng)!
 
 11/22/2022: The SHOREACCESS mobile app v2.0 has been released on the [App Store](https://apps.apple.com/app/shoreaccess/id1604498722) and [Google Play Store](https://play.google.com/store/apps/details?id=shoreaccess.google.androidbrowserhelper.demos.customtabssession)!
@@ -12,6 +14,8 @@ I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and m
 11/1/2022: I presented my paper, "[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038)," at the 2022 IEEE Sensors Conference in Dallas, Texas, United States.
 
 10/22/2022: I gave a virtual talk for the Rencheng Zheng lab at Tianjin University based on my paper, "[Application of physiological sensors for personalization in semi-autonomous driving: A review](http://doi.org/10.1109/JSEN.2021.3100038)."
+
+6/1/2022: I have started as a postdoctoral researcher with the [Jeon Lab](https://www.jeonlab.com) at Sungkyunkwan University!
 
 4/1/2022: I have started an IT software development business, [Azukipan IT Solutions](https://www.azukipan.net).
   
