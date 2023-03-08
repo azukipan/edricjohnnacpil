@@ -15,6 +15,11 @@ BA Philosophy 2007 - The University of California, Irvine
 
 ## Experience
 
+### Postdoctoral Researcher 
+6/2022 - Present, Sungkyunkwan University, Suwon, South Korea
+
+Develop aritifical intelligence for automated driving.
+
 ### Founder
 4/2022 - Present, Azukipan IT Solutions, Tokyo, Japan
 
