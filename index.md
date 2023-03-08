@@ -1,4 +1,4 @@
-I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and mobile development business in Japan. I also conduct independent research on aritifical intelligence and autonomous driving. You can learn more about me by browsing this page.
+I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and mobile development business in Japan. I also conduct research at Sungkyunkwan University on aritifical intelligence and automated driving. You can learn more about me by browsing this page.
 
 ### [Research](https://azukipan.github.io/edricjohnnacpil/research/) | [Publications](https://azukipan.github.io/edricjohnnacpil/publications/)
 ### [Resume](https://azukipan.github.io/edricjohnnacpil/resume/) | [Biography](https://azukipan.github.io/edricjohnnacpil/biography/)
