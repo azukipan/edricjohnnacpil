@@ -4,7 +4,7 @@ title: "Resume"
 permalink: /resume/
 ---
 ## Contact
-edric(at)azukipan.net
+enacpil(at)uci.edu
 
 ## Education
 PhD Mechanical Engineering 2020 - The University of Tokyo
