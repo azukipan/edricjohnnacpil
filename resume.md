@@ -36,7 +36,7 @@ Conducted artificial intelligence research with a focus on mobility.
 Completed dissertation on surface electromyography-controlled steering asssistance for automobiles.
 
 ## Skills
-Languages: Python, Javascript, Java, Swift, C#
+Languages: Python, Javascript, Kotlin, Java, Swift, C#
 
 Software: TensorFlow, Pytorch, Jupyter Notebook, Visual Studio Code, Xcode, Excel, MATLAB, Git, Linux, Windows, MacOS
 
