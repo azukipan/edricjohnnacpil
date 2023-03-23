@@ -5,7 +5,7 @@ I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and m
 
 
 ### Updates
-2/25/2023: Our article, "Extreme gradient boosting to predict atomic layer deposition for platinum nano-film coating," has been accepted for publication in Langmuir.
+2/25/2023: Our article, "[Extreme gradient boosting to predict atomic layer deposition for platinum nano-film coating](https://doi.org/10.1021/acs.langmuir.2c03465)," has been accepted for publication in Langmuir.
 
 12/25/2022: My first personal/business networking app, GuavaDrop, has been released on the [App Store](https://apps.apple.com/app/guavadrop/id1619055284) and [Google Play Store](https://play.google.com/store/apps/details?id=com.azukipan.guavadrop&fbclid=IwAR1JCXLDZAx5ozKKJQN7rv6bEhnwSzGePkIbveAdaepKCxUVGx0O5CTK6ng)!
 
