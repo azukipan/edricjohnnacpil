@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## Peer-Reviewed Journal Articles
 
-1) S. Yoon, J.H. Jeon, S. Cho, E.J.C. Nacpil, I. Jeon, J. Choi, H. Kim, “Extreme gradient boosting to predict atomic layer deposition for platinum nano-film coating,” Langmuir 2023 (Accepted).
+1) S. Yoon, J.H. Jeon, S. Cho, E.J.C. Nacpil, I. Jeon, J. Choi, H. Kim, “[Extreme gradient boosting to predict atomic layer deposition for platinum nano-film coating](https://pubs.acs.org/doi/full/10.1021/acs.langmuir.2c03465),” Langmuir 2023 (Accepted).
  
 2) C. Liu, Z. Wang, E.J.C. Nacpil, W. Hou, R. Zheng, “[Analysis of Visual Risk Perception Model for Braking Control Behaviour of Human Drivers: A Literature Review](https://doi.org/10.1049/itr2.12170),” IET Intelligent Transport Systems, 2022.
 
