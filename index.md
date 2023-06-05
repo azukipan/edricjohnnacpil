@@ -5,6 +5,8 @@ I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and m
 
 
 ### Updates
+6/5/2023: Our article, "EEG-based Emergency Braking Prediction Using Data Ablation and SVM Classification," has been accepted for publication in IEEE Sensors Journal.
+
 4/25/2023: Our article, "[Emerging Opportunities in Lead-Free and Lead–Tin Perovskites for Environmentally Viable Photodetector Applications](https://doi.org/10.1021/acs.chemmater.3c00345)," has been accepted for publication in Chemistry of Materials.
 
 2/25/2023: Our article, "[Extreme gradient boosting to predict atomic layer deposition for platinum nano-film coating](https://doi.org/10.1021/acs.langmuir.2c03465)," has been accepted for publication in Langmuir.
