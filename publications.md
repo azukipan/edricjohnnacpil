@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## Peer-Reviewed Journal Articles
 
-1) E.J.C Nacpil, Z. Wang, M. Guan, K. Nakano, and I. Jeon, “EEG-based Emergency Braking Prediction Using Data Ablation and SVM Classification,” IEEE Sensors Journal, 2023 (Accepted).
+1) E.J.C Nacpil, Z. Wang, M. Guan, K. Nakano, and I. Jeon, “[EEG-based Emergency Braking Prediction Using Data Ablation and SVM Classification](https://doi.org/10.1109/JSEN.2023.3283447),” IEEE Sensors Journal, 2023 (Accepted).
 
 2) E. Jokar, L. Cai, J. Han, E.J.C. Nacpil, and I. Jeon, “[Emerging Opportunities in Lead-Free and Lead–Tin Perovskites for Environmentally Viable Photodetector Applications](https://doi.org/10.1021/acs.chemmater.3c00345),” Chemistry of Materials, vol. 35, no. 9, 2023.
 
