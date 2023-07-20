@@ -5,6 +5,8 @@ I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and m
 
 
 ### Updates
+7/20/2023: Our article, "[Modeling Lateral Control Behaviors of Distracted Drivers for Haptic-Shared Steering System](https://doi.org/10.1109/JSEN.2023.3283447)," has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems.
+
 6/5/2023: Our article, "[EEG-based Emergency Braking Prediction Using Data Ablation and SVM Classification](https://doi.org/10.1109/JSEN.2023.3283447)," has been accepted for publication in IEEE Sensors Journal.
 
 4/25/2023: Our article, "[Emerging Opportunities in Lead-Free and Lead–Tin Perovskites for Environmentally Viable Photodetector Applications](https://doi.org/10.1021/acs.chemmater.3c00345)," has been accepted for publication in Chemistry of Materials.
