@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 ## Peer-Reviewed Journal Articles
-1) E.J.C. Nacpil, J. Han, and I. Jeon, "Artificial Intelligence-Assisted Robustness of Optoelectronics for Automated Driving: A Review," IEEE Transactions on Intelligent Transportation Systems, 2023 (Accepted).
+1) E.J.C. Nacpil, J. Han, and I. Jeon, "[Artificial Intelligence-Assisted Robustness of Optoelectronics for Automated Driving: A Review](https://doi.org/10.1109/TITS.2023.3309290)," IEEE Transactions on Intelligent Transportation Systems, 2023 (Accepted).
 
 2) F.X. Xu, S.Y. Feng, E.J.C. Nacpil, Z. Wang, G.Q. Wang, and C. Zhou, “[Modeling Lateral Control Behaviors of Distracted Drivers for Haptic-Shared Steering System](https://doi.org/10.1109/TITS.2023.3293504),” IEEE Transactions on Intelligent Transportation Systems, 2023 (Accepted).
 
