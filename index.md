@@ -5,11 +5,15 @@ I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and m
 
 
 ### Updates
+9/29/2023: Our article,  "Evaluation of Visual Risk Perception of Automated Driving Tasks by Analyzing Gaze Pattern Dispersion," has been accepted for publication in IEEE Transactions on Intelligent Vehicles.
+
 8/25/2023: Our article,  "[Artificial Intelligence-Assisted Robustness of Optoelectronics for Automated Driving: A Review](https://doi.org/10.1109/TITS.2023.3309290)," has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems.
 
 7/20/2023: Our article, "[Modeling Lateral Control Behaviors of Distracted Drivers for Haptic-Shared Steering System](https://doi.org/10.1109/TITS.2023.3293504)," has been accepted for publication in IEEE Transactions on Intelligent Transportation Systems.
 
 6/5/2023: Our article, "[EEG-based Emergency Braking Prediction Using Data Ablation and SVM Classification](https://doi.org/10.1109/JSEN.2023.3283447)," has been accepted for publication in IEEE Sensors Journal.
+
+6/1/2023: I have started researching as a Brain Pool Fellow with the [Jeon Lab](https://www.jeonlab.com) at Sungkyunkwan University!
 
 4/25/2023: Our article, "[Emerging Opportunities in Lead-Free and Lead–Tin Perovskites for Environmentally Viable Photodetector Applications](https://doi.org/10.1021/acs.chemmater.3c00345)," has been accepted for publication in Chemistry of Materials.
 
