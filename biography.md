@@ -13,6 +13,6 @@ I was encouraged by my former graduate advisor, Dr. George Youssef, to pursue re
 
 I spent a few more years working in industry before deciding to return to engineering research. I was admitted as a doctoral candidate to The University of Tokyo, where I conducted automotive engineering experiments under the guidance Dr. Kimihiko Nakano. I wrote a dissertation on inclusive steering assistance that enabled persons with upper limb disabilities to steer autonomous automobiles using arm muscle signals. Despite the onset of the COVID-19 pandemic, in addition to the challenges of being a graduate student, my PhD in Mechanical Engineering was conferred in 2020.
 
-The next couple of years were committed to working as a senior researcher in Artificial Intelligence at Corpy & Co., Inc. in Tokyo. In 2022, moved on to found an web and mobile development business, Azukipan IT Solutions, in Japan.
+The next couple of years were committed to working as a senior researcher in Artificial Intelligence at Corpy & Co., Inc. in Tokyo. In 2022, moved on to found an web and mobile development business, Azukipan IT Solutions, in Japan. I also began an appointment in 2023 as a Brain Pool Fellow at Sungkyunkwan University, South Korea with a focus on developing AI for automated driving.
 
 [Back](https://azukipan.github.io/edricjohnnacpil/)
