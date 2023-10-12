@@ -4,7 +4,7 @@ title: "Publications"
 permalink: /publications/
 ---
 ## Peer-Reviewed Journal Articles
-1) C. Liu, E.J.C. Nacpil, W. Hou, Y. Qin, and R. Zheng, "Evaluation of Visual Risk Perception of Automated Driving Tasks by Analyzing Gaze Pattern Dispersion," IEEE Transactions on Intelligent Vehicles, 2023 (Accepted).
+1) C. Liu, E.J.C. Nacpil, W. Hou, Y. Qin, and R. Zheng, "[Evaluation of Visual Risk Perception of Automated Driving Tasks by Analyzing Gaze Pattern Dispersion](https://doi.org/10.1109/TIV.2023.3323340)," IEEE Transactions on Intelligent Vehicles, 2023 (Accepted).
    
 2) E.J.C. Nacpil, J. Han, and I. Jeon, "[Artificial Intelligence-Assisted Robustness of Optoelectronics for Automated Driving: A Review](https://doi.org/10.1109/TITS.2023.3309290)," IEEE Transactions on Intelligent Transportation Systems, 2023 (Accepted).
 
