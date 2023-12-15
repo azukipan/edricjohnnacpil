@@ -32,7 +32,7 @@ permalink: /publications/
 
 14) E.J.C. Nacpil, T. Kaizuka, R. Zheng, and K. Nakano, “[Surface Electromyography-Controlled Automobile Steering Assistance](https://doi.org/10.3390/s20030809),” Sensors, vol. 20, no. 3, 2020.
 
-16) E.J.C. Nacpil, Z. Wang, R. Zheng, T. Kaizuka, and K. Nakano, “[Design and Evaluation of a Surface Electromyography-Controlled Steering Assistance Interface](https://dx.doi.org/10.3390%2Fs19061308),” Sensors, vol. 19, no. 6, 2019.
+15) E.J.C. Nacpil, Z. Wang, R. Zheng, T. Kaizuka, and K. Nakano, “[Design and Evaluation of a Surface Electromyography-Controlled Steering Assistance Interface](https://dx.doi.org/10.3390%2Fs19061308),” Sensors, vol. 19, no. 6, 2019.
 
 16) E.J.C. Nacpil, R. Zheng, T. Kaizuka, and K. Nakano, “[A surface electromyography controlled steering assistance interface](https://doi.org/10.1108/JICV-11-2018-0011),” Journal of Intelligent and Connected Vehicles, Apr. 2019.
 
