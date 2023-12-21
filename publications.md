@@ -10,7 +10,7 @@ permalink: /publications/
    
 3) E.J.C. Nacpil, J. Han, and I. Jeon, "[Artificial Intelligence-Assisted Robustness of Optoelectronics for Automated Driving: A Review](https://doi.org/10.1109/TITS.2023.3309290)," IEEE Transactions on Intelligent Transportation Systems, 2023 (Accepted).
 
-4) F.X. Xu, S.Y. Feng, E.J.C. Nacpil, Z. Wang, G.Q. Wang, and C. Zhou, “[Modeling Lateral Control Behaviors of Distracted Drivers for Haptic-Shared Steering System](https://doi.org/10.1109/TITS.2023.3293504),” IEEE Transactions on Intelligent Transportation Systems, 2023 (Accepted).
+4) F.X. Xu, S.Y. Feng, E.J.C. Nacpil, Z. Wang, G.Q. Wang, and C. Zhou, “[Modeling Lateral Control Behaviors of Distracted Drivers for Haptic-Shared Steering System](https://doi.org/10.1109/TITS.2023.3293504),” IEEE Transactions on Intelligent Transportation Systems, vol. 24, no. 12, 2023 (Accepted).
 
 5) E.J.C. Nacpil, Z. Wang, M. Guan, K. Nakano, and I. Jeon, “[EEG-based Emergency Braking Prediction Using Data Ablation and SVM Classification](https://doi.org/10.1109/JSEN.2023.3283447),” IEEE Sensors Journal, vol. 23, no. 14, 2023.
 
