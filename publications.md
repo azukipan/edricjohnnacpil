@@ -7,7 +7,7 @@ permalink: /publications/
 
 1) F.X. Xu, E.J.C. Nacpil, Z. Wang, and C. Zhou, "Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance", IEEE Transactions on Vehicular Technology, 2024 (Accepted).
 
-2) Y. Choi, E.J.C. Nacpil., J. Han, I. Kim, and I. Jeon, "Recent Advances in Dispersant Technology for Carbon Nanotubes toward Energy Device Applications," Advanced Energy and Sustainability Research, 2023 (Accepted).
+2) Y. Choi, E.J.C. Nacpil., J. Han, I. Kim, and I. Jeon, "[Recent Advances in Dispersant Technology for Carbon Nanotubes toward Energy Device Applications](http://doi.org/10.1002/aesr.202300219)," Advanced Energy and Sustainability Research, 2023 (Accepted).
 
 3) C. Liu, E.J.C. Nacpil, W. Hou, Y. Qin, and R. Zheng, "[Evaluation of Visual Risk Perception of Automated Driving Tasks by Analyzing Gaze Pattern Dispersion](https://doi.org/10.1109/TIV.2023.3323340)," IEEE Transactions on Intelligent Vehicles, 2023 (Accepted).
    
