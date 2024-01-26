@@ -5,7 +5,7 @@ I am the owner of [Azukipan IT Solutions](https://www.azukipan.net), a web and m
 
 
 ### Updates
-1/21/2024: Our article, "Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance," has been accepted for publicaton in IEEE Transactions on Vehicular Technology.
+1/21/2024: Our article, "[Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance](https://doi.org/10.1109/TVT.2024.3357942)," has been accepted for publicaton in IEEE Transactions on Vehicular Technology.
 
 12/21/2023: Our article, "[Recent Advances in Dispersant Technology for Carbon Nanotubes toward Energy Device Applications](http://doi.org/10.1002/aesr.202300219)," has been accepted for publication in Advanced Energy and Sustainability Research.
 
