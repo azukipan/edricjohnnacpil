@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## Peer-Reviewed Journal Articles
 
-1) F.X. Xu, E.J.C. Nacpil, Z. Wang, and C. Zhou, "Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance", IEEE Transactions on Vehicular Technology, 2024 (Accepted).
+1) F.X. Xu, E.J.C. Nacpil, Z. Wang, and C. Zhou, "[Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance](https://doi.org/10.1109/TVT.2024.3357942)", IEEE Transactions on Vehicular Technology, 2024 (Accepted).
 
 2) Y. Choi, E.J.C. Nacpil., J. Han, I. Kim, and I. Jeon, "[Recent Advances in Dispersant Technology for Carbon Nanotubes toward Energy Device Applications](http://doi.org/10.1002/aesr.202300219)," Advanced Energy and Sustainability Research, 2023 (Accepted).
 
