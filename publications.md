@@ -11,7 +11,7 @@ permalink: /publications/
 
 3) Y. Choi, E.J.C. Nacpil., J. Han, I. Kim, and I. Jeon, "[Recent Advances in Dispersant Technology for Carbon Nanotubes toward Energy Device Applications](http://doi.org/10.1002/aesr.202300219)," Advanced Energy and Sustainability Research, 2023 (Accepted).
 
-4) C. Liu, E.J.C. Nacpil, W. Hou, Y. Qin, and R. Zheng, "[Evaluation of Visual Risk Perception of Automated Driving Tasks by Analyzing Gaze Pattern Dispersion](https://doi.org/10.1109/TIV.2023.3323340)," IEEE Transactions on Intelligent Vehicles, 2023 (Accepted).
+4) C. Liu, E.J.C. Nacpil, W. Hou, Y. Qin, and R. Zheng, "[Evaluation of Visual Risk Perception of Automated Driving Tasks by Analyzing Gaze Pattern Dispersion](https://doi.org/10.1109/TIV.2023.3323340)," IEEE Transactions on Intelligent Vehicles, vol. 9, no. 1, 2024.
    
 5) E.J.C. Nacpil, J. Han, and I. Jeon, "[Artificial Intelligence-Assisted Robustness of Optoelectronics for Automated Driving: A Review](https://doi.org/10.1109/TITS.2023.3309290)," IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 1, 2024.
 
