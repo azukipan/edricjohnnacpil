@@ -5,7 +5,7 @@ permalink: /publications/
 ---
 ## Peer-Reviewed Journal Articles
 
-1) C. Liu, B. Chen, Y. Guo, X. Chen, E.J.C. Nacpil, W. Hou, and R. Zheng, "[Evaluation of a user-accessible countermeasure: Effect of manual dexterity gymnastics on passive driver fatigue](https://doi.org/10.1016/j.trf.2024.01.012)," Transportation Research Part F: Traffic Psychology and Behaviour, vol.101, 2024.
+1) C. Liu, B. Chen, Y. Guo, X. Chen, E.J.C. Nacpil, W. Hou, and R. Zheng, "[Evaluation of a user-accessible countermeasure: Effect of manual dexterity gymnastics on passive driver fatigue](https://doi.org/10.1016/j.trf.2024.01.012)," Transportation Research Part F: Traffic Psychology and Behaviour, vol. 101, 2024.
 
 2) F.X. Xu, E.J.C. Nacpil, Z. Wang, and C. Zhou, "[Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance](https://doi.org/10.1109/TVT.2024.3357942)", IEEE Transactions on Vehicular Technology, 2024 (Accepted).
 
