@@ -15,8 +15,13 @@ BA Philosophy 2007 - The University of California, Irvine
 
 ## Experience
 
+### CEO
+6/2024 - Present, Azukipan IT Solutions LLC, Milwaukee, United States
+
+Raise capital to develop in-house mobile and web applications.
+
 ### Postdoctoral Researcher 
-6/2022 - Present, Sungkyunkwan University, Suwon, South Korea
+6/2022 - 6/2024, Sungkyunkwan University, Suwon, South Korea
 
 Develop aritifical intelligence for automated driving.
 
