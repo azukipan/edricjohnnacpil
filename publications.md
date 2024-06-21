@@ -7,9 +7,9 @@ permalink: /publications/
 
 1) C. Liu, B. Chen, Y. Guo, X. Chen, E.J.C. Nacpil, W. Hou, and R. Zheng, "[Evaluation of a user-accessible countermeasure: Effect of manual dexterity gymnastics on passive driver fatigue](https://doi.org/10.1016/j.trf.2024.01.012)," Transportation Research Part F: Traffic Psychology and Behaviour, vol. 101, 2024.
 
-2) F.X. Xu, E.J.C. Nacpil, Z. Wang, and C. Zhou, "[Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance](https://doi.org/10.1109/TVT.2024.3357942)", IEEE Transactions on Vehicular Technology, 2024 (Accepted).
+2) F.X. Xu, E.J.C. Nacpil, Z. Wang, and C. Zhou, "[Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance](https://doi.org/10.1109/TVT.2024.3357942)", IEEE Transactions on Vehicular Technology, vol. 73, no. 6, 2024.
 
-3) Y. Choi, E.J.C. Nacpil., J. Han, I. Kim, and I. Jeon, "[Recent Advances in Dispersant Technology for Carbon Nanotubes toward Energy Device Applications](http://doi.org/10.1002/aesr.202300219)," Advanced Energy and Sustainability Research, 2023 (Accepted).
+3) Y. Choi, E.J.C. Nacpil., J. Han, I. Kim, and I. Jeon, "[Recent Advances in Dispersant Technology for Carbon Nanotubes toward Energy Device Applications](http://doi.org/10.1002/aesr.202300219)," Advanced Energy and Sustainability Research, vol. 5, no. 4, 2024.
 
 4) C. Liu, E.J.C. Nacpil, W. Hou, Y. Qin, and R. Zheng, "[Evaluation of Visual Risk Perception of Automated Driving Tasks by Analyzing Gaze Pattern Dispersion](https://doi.org/10.1109/TIV.2023.3323340)," IEEE Transactions on Intelligent Vehicles, vol. 9, no. 1, 2024.
    
