@@ -5,6 +5,8 @@ I am the CEO of [Azukipan IT Solutions LLC](https://www.azukipan.net), a web and
 
 
 ### Updates
+5/24/2025: Our article, "[Driver Steering Intention Prediction for Human-Machine Shared Systems of Intelligent Vehicles Based on CNN-GRU Network](https://doi.org/10.3390/s25103224)," has been published in Sensors."
+
 1/26/2024: Our article, "[Evaluation of a user-accessible countermeasure: Effect of manual dexterity gymnastics on passive driver fatigue](https://doi.org/10.1016/j.trf.2024.01.012)," has been accepted for publicaton in Transportation Research Part F: Traffic Psychology and Behaviour.
 
 1/21/2024: Our article, "[Modeling lateral control behavior of driver for manual takeover of automated vehicles during pedestrian collision avoidance](https://doi.org/10.1109/TVT.2024.3357942)," has been accepted for publicaton in IEEE Transactions on Vehicular Technology.
