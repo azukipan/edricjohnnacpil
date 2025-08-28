@@ -6,7 +6,7 @@ permalink: /publications/
 ## Peer-Reviewed Journal Articles
 
 1) A.I. Siam, A.A. Zayed, E.J.C. Nacpil, and I. Jeon, "[A more computationally efficient bearing fault diagnosis system using
-deep learning classifiers for rotating machinery health monitoring](https://doi.org/10.1007/s00170-025-16170-x)," The International Journal of Advanced Manufacturing Technology, 2025.
+deep learning classifiers for rotating machinery health monitoring](https://doi.org/10.1007/s00170-025-16170-x)," The International Journal of Advanced Manufacturing Technology, vol. 139, 2025.
 
 2) C. Zhou, F. Zhang, E.J.C. Nacpil, Z. Wang, and F.X. Xu, "[Driver Steering Intention Prediction for Human-Machine Shared Systems of Intelligent Vehicles Based on CNN-GRU Network](https://doi.org/10.3390/s25103224)," Sensors, vol. 25, no. 10, 2025.
 
