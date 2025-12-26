@@ -5,7 +5,10 @@ I am the CEO of [Azukipan IT Solutions LLC](https://www.azukipan.net), a web and
 
 
 ### Updates
-7/18/2025: Our article, "A more computationally efficient bearing fault diagnosis system using deep learning classifiers for rotating machinery health monitoring," has been accepted for publicaton in The International Journal of Advanced Manufacturing Technology.
+
+12/27/2025: Our article, "[Drivers Use Constrained Gaze Regulation for Risk Perception: An Analysis of Visual Behaviors in Braking Control](https://www.doi.org/10.1007/s13177-025-00597-3)," has been published in the International Journal of Intelligent Transportation Systems Research."
+
+8/7/2025: Our article, "[A more computationally efficient bearing fault diagnosis system using deep learning classifiers for rotating machinery health monitoring](https://www.doi.org/10.1007/s00170-025-16170-x)," has been published in The International Journal of Advanced Manufacturing Technology."
 
 5/24/2025: Our article, "[Driver Steering Intention Prediction for Human-Machine Shared Systems of Intelligent Vehicles Based on CNN-GRU Network](https://doi.org/10.3390/s25103224)," has been published in Sensors."
 
