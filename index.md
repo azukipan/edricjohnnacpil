@@ -6,6 +6,8 @@ I am the CEO of [Azukipan IT Solutions LLC](https://www.azukipan.net), a web and
 
 ### Updates
 
+3/28/2026: Our article, "[Investigation of luminance influence on driver risk perception according to visual time-to-collision](https://doi.org/10.1016/j.trf.2026.103597)," has been published in Transportation Research Part F: Traffic Psychology and Behaviour.
+
 12/27/2025: Our article, "[Drivers Use Constrained Gaze Regulation for Risk Perception: An Analysis of Visual Behaviors in Braking Control](https://www.doi.org/10.1007/s13177-025-00597-3)," has been published in the International Journal of Intelligent Transportation Systems Research."
 
 8/7/2025: Our article, "[A more computationally efficient bearing fault diagnosis system using deep learning classifiers for rotating machinery health monitoring](https://www.doi.org/10.1007/s00170-025-16170-x)," has been published in The International Journal of Advanced Manufacturing Technology."
